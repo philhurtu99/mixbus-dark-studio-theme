@@ -4,11 +4,15 @@ A darker, flatter look for the whole Harrison Mixbus 12.1 interface: deep grey b
 
 It is made only of configuration files: no code change, no rebuild. It works with the stock Mixbus 12.1 and with patched builds.
 
-| Stock Mixbus theme | Dark Studio |
-| --- | --- |
-| ![Stock Mixbus theme](docs/theme-before.png) | ![Dark Studio theme](docs/theme-after.png) |
+**Stock Mixbus theme**
 
-Both screenshots show the same session at 1920 × 2700, with Kick and Snare selected, the same four tracks, two mixbuses and master, and the gate, compressor, EQ and send sections visible. Each theme keeps its own font and interface scale. Click either image to inspect it at full size.
+![Stock Mixbus theme](docs/theme-before.png)
+
+**Dark Studio**
+
+![Dark Studio theme](docs/theme-after.png)
+
+Both screenshots show the same session in landscape format (2560 × 1440, 16:9), with Kick and Snare selected, the same four tracks, twelve mixbuses and master, and the gate, compressor, EQ and send sections visible. Both use the same mixer strip scale (50%); each theme keeps its own font and interface styling. Click either image to inspect it at full size.
 
 ## Files
 
