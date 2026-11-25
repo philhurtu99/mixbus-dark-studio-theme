@@ -8,6 +8,8 @@ It is made only of configuration files: no code change, no rebuild. It works wit
 | --- | --- |
 | ![Stock Mixbus theme](docs/theme-before.png) | ![Dark Studio theme](docs/theme-after.png) |
 
+Both screenshots show the same session at 1920 × 2700, with Kick and Snare selected, the same four tracks, two mixbuses and master, and the gate, compressor, EQ and send sections visible. Each theme keeps its own font and interface scale. Click either image to inspect it at full size.
+
 ## Files
 
 | File | Role |
