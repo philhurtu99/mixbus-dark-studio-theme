@@ -12,7 +12,7 @@ It is made only of configuration files: no code change, no rebuild. It works wit
 
 ![Dark Studio theme](docs/theme-after.png)
 
-Both screenshots show the same session in landscape format (2560 × 1440, 16:9), with Kick and Snare selected, the same four tracks, twelve mixbuses and master, and the gate, compressor, EQ and send sections visible. Both use the same mixer strip scale (50%); each theme keeps its own font and interface styling. Click either image to inspect it at full size.
+Screenshots show the editor and mixer with Vox, Drum, Guitar and Bass tracks. Click either image to inspect it at full size.
 
 ## Files
 
